@@ -88,8 +88,8 @@
     }
   },
   {
-  "douban_proxy": "https://cors-anywhere.herokuapp.com//fetch?url=",
-  "downstream_proxy": "https://cors-anywhere.herokuapp.com//fetch?url=",
-  "image_proxy": "https://cors-anywhere.herokuapp.com//image?url="
+  "douban_proxy": "https://cors-anywhere.com",
+  "downstream_proxy": "https://cors-anywhere.com",
+  "image_proxy": "https://cors-anywhere.com"
 }
 }
