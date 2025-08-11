@@ -86,5 +86,10 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     }
-  }
+  },
+  {
+  "douban_proxy": "https://cors-anywhere.herokuapp.com//fetch?url=",
+  "downstream_proxy": "https://cors-anywhere.herokuapp.com//fetch?url=",
+  "image_proxy": "https://cors-anywhere.herokuapp.com//image?url="
+}
 }
